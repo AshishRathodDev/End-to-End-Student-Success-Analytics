@@ -1,9 +1,3 @@
-# import sys  ise ek bar check kar na hia 
-#aur use k sath he jo jo main enkeya vo kya kar tha hai vo sab bhi dek na hai 
-# custom exception handling in python documnetation
-
-
-
 import sys
 import logging
 
