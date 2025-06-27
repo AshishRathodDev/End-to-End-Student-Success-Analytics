@@ -6,3 +6,4 @@ dill
 gunicorn
 xgboost==1.7.5
 networkx
+catboost
