@@ -5,3 +5,4 @@ scikit-learn==1.2.2
 dill
 gunicorn
 xgboost==1.7.5
+networkx
