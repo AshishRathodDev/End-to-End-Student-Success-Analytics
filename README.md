@@ -15,9 +15,6 @@ Why just read about it when you can see it in action?
 
 *   **Try the Live Application:** [**Student Success Predictor on Hugging Face Spaces**](https://huggingface.co/spaces/rathodashish10/End-to-end-student-performance-predictor)
 
-### Application in Action
-![Application Demo GIF](assets/app_demo.gif)
-
 ### System Architecture
 The application is designed for clarity and scalability. The entire request-response cycle, from user input to model inference, is illustrated in the sequence diagram below. This isn't just code; it's engineered software.
 
