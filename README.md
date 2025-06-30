@@ -13,7 +13,7 @@ This isn't just another Jupyter Notebook. This is a fully containerized, end-to-
 
 Why just read about it when you can see it in action?
 
-*   **Try the Live Application:** [**Student Success Predictor on Hugging Face Spaces**](https://huggingface.co/spaces/rathodashish10/student-success-predictor)
+*   **Try the Live Application:** [**Student Success Predictor on Hugging Face Spaces**](https://huggingface.co/spaces/rathodashish10/End-to-end-student-performance-predictor)
 
 ### Application in Action
 ![Application Demo GIF](assets/app_demo.gif)
