@@ -89,15 +89,4 @@ Want to run this project yourself? Here’s how you can get it up and running in
     Your application is now live! Open your browser and go to **`http://127.0.0.1:5000`**.
 
 ---
-
-## 💡 Future Roadmap
-
-This project is a solid foundation, but there's always room to grow. Here are a few ideas for future enhancements:
-
-*   [ ] **CI/CD Pipeline:** Implement GitHub Actions to automatically test and deploy new changes.
-*   [ ] **User Accounts & History:** Allow users to create accounts and view their past predictions.
-*   [ ] **Model Monitoring:** Integrate tools to monitor model performance and detect data drift over time.
-*   [ ] **A/B Testing:** Deploy multiple models simultaneously to see which one performs best in a live environment.
-
----
 Feel free to clone, experiment, and reach out with any questions!
